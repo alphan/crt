@@ -40,7 +40,7 @@ filegroup(
         "cpp": "wrappers/cpp",
         "gcc": "wrappers/clang",
         "gcov": "wrappers/gcov",
-        "ld": "wrappers/ld",
+        "ld": "wrappers/ld.lld",
         "nm": "wrappers/nm",
         "objcopy": "wrappers/objcopy",
         "objdump": "wrappers/objdump",

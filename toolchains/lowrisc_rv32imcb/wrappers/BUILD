@@ -11,6 +11,7 @@ filegroup(
         "gcc",
         "gcov",
         "ld",
+        "ld.lld",
         "nm",
         "objcopy",
         "objdump",
